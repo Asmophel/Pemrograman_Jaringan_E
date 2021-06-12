@@ -54,6 +54,24 @@ lalu, sebelum menjalankan program client.py pada alpine-3, ubah server_address, 
 
 ![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/8.PNG)
 
+setelah itu, jalankan server pada alpine-1 dan 2 terlebih dahulu sebelum menjalankan client
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/9.PNG)
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/10.PNG)
+
+Setelah itu jalankan client pada alpine 3
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/11.PNG)
+
+berikut alpine-1 setelah client dijalankan
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/12.PNG)
+
+berikut alpine-2 setelah client dijalankan
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/13.PNG)
+
 ### Modifikasilah program client.py tersebut untuk mengirim string sebesar 2 megabytes
 
 
