@@ -74,7 +74,49 @@ berikut alpine-2 setelah client dijalankan
 
 ### Modifikasilah program client.py tersebut untuk mengirim string sebesar 2 megabytes
 
+buat folder baru untuk membuat program client baru, lalu copy file client yang lama ke folder tersebut, lalu modifikasi sebagai berikut, lengkapnya dapat dilihat pada client.py pada folder string
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/13_5.PNG)
+
+k merupakan besar string, ubah menjadi 2000000 atau 2 megabytes
+
+lakukan seperti tadi, run server pada alpine-1 dan 2 terlebih dahulu, lalu run client pada alpine-3, seperti ini hasil pada alpine-3
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/14.PNG)
+
+berikut hasil pada alpine-1
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/15.PNG)
+
+berikut hasil pada alpine-2
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/16.PNG)
+
+pada alpine-2 message belum terkirim, pada alpine-3 message tidak berhenti, sehingga saya stop saja
+
 
 ### Modifikasilah program client.py tersebut untuk mengirim file gambar, dan menulis respon baliknya ke dalam nama file yang berbeda
 
+buat folder baru untuk membuat program client baru, lalu copy file client yang lama ke folder tersebut, lalu modifikasi sebagai berikut, lengkapnya dapat dilihat pada client.py pada folder kirim_gambar
 
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/17.PNG)
+
+siapkan terlebih dahulu gambar yang akan dikirim
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/21.PNG)
+
+lakukan seperti tadi, run server pada alpine-1 dan 2 terlebih dahulu, lalu run client pada alpine-3, seperti ini hasil pada alpine-3
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/18.PNG)
+
+berikut hasil pada alpine-1
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/19.PNG)
+
+berikut hasil pada alpine-2
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/20.PNG)
+
+lalu cek apakah gambar telah terkirim
+
+![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/22.PNG)
