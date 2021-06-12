@@ -1,5 +1,7 @@
 import sys
 import socket
+import random
+import string
 
 # Create a TCP/IP socket
 sock1 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
