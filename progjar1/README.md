@@ -16,7 +16,7 @@ Ada pada github ini
 
 Berikut adalah gambar topologi yang digunakan. Setelah pengecekan semua ip address telah tersambung.
 
-![](.//progjar1/img1/1.png)
+![](.//img1/1.png)
 
 ## No 3 Clone lah repository hasil fork tersebut di masing-masing node tersebut di direktori /home/work (jika belum ada dapat dibuat dulu dengan mkdir -p /home/work)
 
