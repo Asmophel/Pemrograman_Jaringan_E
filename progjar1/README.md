@@ -40,7 +40,7 @@ Setelah di clone pada tiap node
 
 ### Jalankan program server.py di alpine-1 dan alpine-2, jalankan program client.py di alpine 3
 
-Sebelum menjalankan program server.py pada alpine-1 dan alpine-2, ubah ip pada masing program menjadi ip alpine-1 dan alpine-2
+Sebelum menjalankan program server.py pada alpine-1 dan alpine-2, ubah ip pada masing program menjadi ip alpine-1 dan alpine-2, untuk lebih lengkap dapat melihat file server.py
 
 alpine-1 menjadi seperti berikut
 
@@ -50,7 +50,7 @@ alpine-2 menjadi seperti berikut
 
 ![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/7.PNG)
 
-lalu, sebelum menjalankan program client.py pada alpine-3, ubah server_address, print, dan socket sesuai ip pada alpine-1 dan alpine-2, seperti berikut
+lalu, sebelum menjalankan program client.py pada alpine-3, ubah server_address, print, socket, dan response sesuai ip pada alpine-1 dan alpine-2, untuk lebih lengkap dapat melihat file client.py
 
 ![](https://github.com/Asmophel/Pemrograman_Jaringan_E/blob/master/progjar1/img1/8.PNG)
 
